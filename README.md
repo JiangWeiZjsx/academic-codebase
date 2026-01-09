@@ -1,4 +1,4 @@
-# Paper_diagnosis
+# academic-codebase
 =================================================
 
 This code is provided for educational and academic purposes only. \
