@@ -1,4 +1,4 @@
-# academic-codebase
+# Academic-codebase
 =================================================
 
 This code is provided for educational and academic purposes only. \
